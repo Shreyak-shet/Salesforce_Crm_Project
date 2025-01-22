@@ -46,3 +46,7 @@ Track case progress and manage communication with students.
 Generate real-time reports on admissions activities and trends.
 Conclusion
 The EduConsultPro Institute Salesforce CRM application optimizes the entire admission process, improving efficiency, communication, and decision-making. By leveraging Salesforce's powerful tools, the institution can manage its growing student inquiries and admission cases more effectively, providing a better experience for both staff and prospective students.
+
+
+https://github.com/user-attachments/assets/1e32da8b-cd1c-4221-8a12-04ee9aaec4aa
+
